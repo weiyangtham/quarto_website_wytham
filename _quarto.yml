@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Wei Yang Tham"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,37 @@
+---
+title: "Research"
+---
+
+## Publications
+
+### [Science, Interrupted: Funding delays reduce research activity but having more grants helps](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280576)
+
+*PLOS ONE, 2023*
+
+### [Unequal Effects of the COVID-19 Pandemic on Scientists](https://www.nature.com/articles/s41562-020-0921-y)
+
+with Kyle Myers, Yian Yin, Nina Cohodes, Jerry Thursby, Marie Thursby, Peter Schiffer, Joseph Walsh, Karim Lakhani, and Dashun Wang
+
+*Nature Human Behaviour (comment), 2020*
+
+## Work in Progress
+
+### The Effect of Funding Delays on the Research Workforce: Evidence From Tax Records
+
+with Stephanie Cheng, Elisabeth Perlman, Joseph Staudt
+
+### Money, Time, and Grant Design
+
+with Kyle Myers
+
+### Productivity Beliefs and Efficiency in Science
+
+with Fabio Bertolotti and Kyle Myers
+
+### The Effect of Targeted Increases in Science Funding: Stem Cell Research in California
+
+with Joseph Staudt
+
+### The Effect of Temporary Colocation on Knowledge Flows
+
+[Slides](https://wytham.rbind.io/html/urban2018/spillovers_uea2018.html#1)

@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
+      - href: files/wytham_cv.pdf
+        text: CV
 
 format:
   html:

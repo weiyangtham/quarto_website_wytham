@@ -1,0 +1,21 @@
+---
+title: "Public Goods"
+---
+
+## Project Management/Coding
+
+- [How to name files](https://github.com/jennybc/how-to-name-files) by Jenny Bryan (possibly the highest ROI coding practice you can learn)
+
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+
+## Professional
+
+- [Guide to Postdocs in Econ/Management](https://wytham.rbind.io/post/postdoc-faq/) by Valerie Bostwick, Sarah Bana, and me 
+
+- [Postdocs in development econ](https://blogs.worldbank.org/impactevaluations/post-docs-development-economics-are-becoming-increasingly-common-advice-those) by David McKenzie
+
+## Other collections of resources
+
+- [Ryan Edwards](http://www.ryanbedwards.com/resources)
+
+- [Alex Albright](https://www.albrightalex.com/public-goods)

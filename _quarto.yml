@@ -10,12 +10,16 @@ website:
       - research.qmd
       - href: files/wytham_cv.pdf
         text: CV
+        target: "_blank"
+      - publicgoods.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    link-external-newwindow: true
+    
 
 editor: visual
 

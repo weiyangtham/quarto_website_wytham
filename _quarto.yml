@@ -4,6 +4,7 @@ project:
 website:
   title: "Wei Yang Tham"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -12,6 +13,8 @@ website:
         text: CV
         target: "_blank"
       - publicgoods.qmd
+      - href: posts.qmd
+        text: Blog
 
 format:
   html:

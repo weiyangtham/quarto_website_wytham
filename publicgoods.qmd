@@ -4,20 +4,20 @@ title: "Public Goods"
 
 ## Project Management/Coding
 
-- [How to name files](https://github.com/jennybc/how-to-name-files) by Jenny Bryan (possibly the highest ROI coding practice you can learn)
+- [How to name files](https://github.com/jennybc/how-to-name-files){target="_blank"} by Jenny Bryan (possibly the highest ROI coding practice you can learn)
 
-- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510){target="_blank"}
 
 ## Professional
 
-- [Guide to Postdocs in Econ/Management](https://weiyangtham.com/posts/2023-05-26_faq-postdoc-econ/) by Valerie Bostwick, Sarah Bana, and me 
+- [Guide to Postdocs in Econ/Management](https://weiyangtham.com/posts/2023-05-26_faq-postdoc-econ/){target="_blank"} by Valerie Bostwick, Sarah Bana, and me 
 
-- [Postdocs in development econ](https://blogs.worldbank.org/impactevaluations/post-docs-development-economics-are-becoming-increasingly-common-advice-those) by David McKenzie
+- [Postdocs in development econ](https://blogs.worldbank.org/impactevaluations/post-docs-development-economics-are-becoming-increasingly-common-advice-those){target="_blank"} by David McKenzie
 
-- [15 Rules to Help You Make it Through Grad School](files/rules_for_grad_school_laurablattner.pdf) by Laura Blattner
+- [15 Rules to Help You Make it Through Grad School](files/rules_for_grad_school_laurablattner.pdf){target="_blank"} by Laura Blattner
 
 ## Other collections of resources
 
-- [Ryan Edwards](http://www.ryanbedwards.com/resources)
+- [Ryan Edwards](http://www.ryanbedwards.com/resources){target="_blank"}
 
-- [Alex Albright](https://www.albrightalex.com/public-goods)
+- [Alex Albright](https://www.albrightalex.com/public-goods){target="_blank"}

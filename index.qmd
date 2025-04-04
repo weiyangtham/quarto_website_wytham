@@ -1,6 +1,6 @@
 ---
 title: "Wei Yang Tham"
-image: suit.jpg
+image: georgia.jpg
 about:
   template: solana
   links: 
@@ -14,6 +14,10 @@ about:
       href: https://scholar.google.com/citations?user=ZnO4jh4AAAAJ&hl=en
 ---
 
-I am a Research Scientist at the Laboratory for Innovation Science at Harvard (LISH) and Harvard Business School. I completed my PhD in Economics at The Ohio State University in 2019.
+I am a Staff Research Scientist at the University of Toronto, based in the Acceleration Consortium and Rotman School of Management. Before that, I was a postdoctoral fellow and then Research Scientist at the Laboratory for Innovation Science at Harvard (LISH) and Harvard Business School. I completed my PhD in Economics at The Ohio State University in 2019.
 
-I study the economics of science and innovation. Recent work includes studying the effect of grant delays on labor market outcomes, how grant design affects the direction of research, and estimating the scientific production function.
+I am an innovation and labor economist. Some of my recent work includes: studying how funding delays affect the labor market outcomes of the research workforce, estimating the knowledge production function to better understand the optimal distribution of resources in science.
+
+<!-- I study innovation and knowledge production in the context of science. Recent work includes eliciting researchers' preferences and responses to grant design, studying how funding delays affect the movement of human capital across sectors and borders, and estimating the knowledge production function to better understand the optimal distribution of resources in research. -->
+
+<!-- I study the economics of science and innovation. Recent work includes studying the effect of grant delays on labor market outcomes, how grant design affects the direction of research, and estimating the knowledge production function. -->

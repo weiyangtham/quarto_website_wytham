@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working Papers
 
-### [Scientific Talent Leaks Out of Funding Gaps](files/tcps_funding-delays.pdf) (R&R, Review of Economics & Statistics)
+### [Scientific Talent Leaks Out of Funding Gaps](files/tcps_funding-delays.pdf) (Conditional Accept, Review of Economics & Statistics)
 
 *NBER Summer Institute 2022 (Innovation), NBER Summer Institute 2024 (Science of Science Funding)*
 
@@ -15,7 +15,7 @@ with Joseph Staudt, Elisabeth Perlman, Stephanie Cheng
 We study how an interruption in the flow of research funding to a major NIH grant --- the R01 --- affects the career outcomes of research personnel using comprehensive wage and tax records that have been linked to university transaction data. Using a difference- in-differences design, we find that for employees who work for labs with only one R01, an interruption of more than 30 days has a substantial effect on job placement, including a 2.5 pp increase in the probability of no longer earning US income. Half of this affect is explained by absence from the 2020 Decennial Census, suggesting that they have permanently left the US. Among employees who continue to earn US income, we also find that interrupted employees earn 20% less than uninterrupted employees. The effects are strongest among those least attached to their university: trainees (postdocs and graduate students) are the most likely to leave the US, and lab staff see the largest wage impact.
 
 
-### [Money, Time, and Grant Design](https://arxiv.org/pdf/2312.06479.pdf) (R&R, American Economic Journal: Applied Economics)
+### [Money, Time, and Grant Design](https://arxiv.org/pdf/2312.06479.pdf) (Conditional Accept, American Economic Journal: Applied Economics)
 
 *NBER Summer Institute 2023 (Science of Science Funding)*
 
@@ -25,7 +25,7 @@ with Kyle Myers
 
 The design of research grants has been hypothesized to be a useful tool for influencing researchers and their science. To better understand the value of grant design as a policy instrument, we conduct two sets of thought experiments in a nationally representative survey of academic researchers. First, we test whether grants with randomized attributes induce different research strategies. Longer grants increase researchers' willingness to take risks, but only among tenured professors, suggesting that job security and grant duration are complements. Larger grants increase researchers' willingness to expand ongoing projects, while smaller grants increase researchers' focus on starting new projects in new directions, the opposite of what conventional theory would suggest. Both longer and larger grants reduce researchers' focus on speed, which suggests a significant amount of racing in science is in pursuit of resources. In our second experiment, we find that researchers are relatively unwilling to trade off the amount of funding a grant provides in order to extend the duration of the grant --- more money is much more valuable than more time. Our results have implications for organizations that fund science and uncover new characteristics of scientific production functions.
 
-### [New Facts and Data about Professors and their Research](https://arxiv.org/pdf/2312.01442.pdf)
+### [New Facts and Data about Professors and their Research](https://arxiv.org/pdf/2312.01442.pdf) (R&R, PLOS ONE)
 
 Coverage: [Nature](https://www.nature.com/articles/d41586-024-00360-w), [Nature (news)](https://www.nature.com/articles/d41586-025-00924-4)
 

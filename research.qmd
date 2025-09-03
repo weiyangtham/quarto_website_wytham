@@ -30,6 +30,11 @@ The design of research grants has been hypothesized to be a useful tool for infl
 Coverage: [Nature](https://www.nature.com/articles/d41586-024-00360-w), [Nature (news)](https://www.nature.com/articles/d41586-025-00924-4)
 
 
+### [Productivity Beliefs and Efficiency in Science](https://www.nber.org/papers/w34000)
+
+with Fabio Bertolotti and Kyle Myers
+
+
 ## Publications
 
 ### [Science, Interrupted: Funding delays reduce research activity but having more grants helps](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280576)
@@ -43,10 +48,6 @@ with Kyle Myers, Yian Yin, Nina Cohodes, Jerry Thursby, Marie Thursby, Peter Sch
 *Nature Human Behaviour, 2020*
 
 ## Work in Progress
-
-### Productivity Beliefs and Efficiency in Science
-
-with Fabio Bertolotti and Kyle Myers
 
 ### Scientific Production Function
 

@@ -59,3 +59,7 @@ with Joseph Staudt
 I study the effect of short-term, repeated interactions on knowledge flows using the setting of NIH "study sections", which are panels of grant reviewers. Using variation in how much reviewers' terms overlap, I find that the longer scientists serve together on the same panel, the more likely they are to cite each other up to 10 years after initial co-location.
 
 [Slides](https://wytham.rbind.io/html/urban2018/spillovers_uea2018.html#1)
+
+## Policy briefs
+
+### [The Talent Cost of Research Funding Delays](https://www.peer-center.org/research/talent-cost-research-funding-delays)

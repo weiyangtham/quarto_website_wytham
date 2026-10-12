@@ -4,7 +4,16 @@ title: "Research"
 
 ## Working Papers
 
-### [Scientific Talent Leaks Out of Funding Gaps](files/tcps_funding-delays.pdf) (Conditional Accept, Review of Economics & Statistics)
+### [Productivity Beliefs and Efficiency in Science](https://www.nber.org/papers/w34000)
+
+with Fabio Bertolotti and Kyle Myers
+
+
+## Publications
+
+### [Scientific Talent Leaks Out of Funding Gaps](files/tcps_funding-delays.pdf)
+
+*Review of Economics and Statistics,* forthcoming
 
 *NBER Summer Institute 2022 (Innovation), NBER Summer Institute 2024 (Science of Science Funding)*
 
@@ -13,16 +22,8 @@ Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolutio
 with Joseph Staudt, Elisabeth Perlman, Stephanie Cheng
 
 
-### [Productivity Beliefs and Efficiency in Science](https://www.nber.org/papers/w34000)
-
-with Fabio Bertolotti and Kyle Myers
-
-
-## Publications
-
-
 ### [Money, Time, and Grant Design](https://arxiv.org/pdf/2312.06479.pdf) 
-*American Economic Journal: Applied Economics,* forthcoming
+*American Economic Journal: Applied Economics,* 2026
 
 <!-- *NBER Summer Institute 2023 (Science of Science Funding)* -->
 
@@ -31,9 +32,9 @@ Coverage: [Nature](https://www.nature.com/articles/d41586-024-00360-w)
 with Kyle Myers
 
 
-### [New Facts and Data about Professors and their Research](https://arxiv.org/pdf/2312.01442.pdf) 
+### [The National Survey of Academic Researchers: New Facts and Data](https://arxiv.org/pdf/2312.01442.pdf)
 
-*PLOS ONE,* 2025
+*PLOS ONE,* 2026
 
 Coverage: [Nature](https://www.nature.com/articles/d41586-024-00360-w), [Nature (news)](https://www.nature.com/articles/d41586-025-00924-4)
 
